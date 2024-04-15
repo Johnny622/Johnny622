@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Johnny622
-- 👀 I’m interested in Software Development and Game Design
+- 👀 I’m interested in Software Development
+- 👀 I'm interested in learning Game Development
 - 🌱 I’m currently learning Front-End Development (HTML), Back-End Development (C#)
 - 📫 You can reach me by using email : Johnny_0622@hotmail.com
 
