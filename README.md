@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development
 - 👀 I'm interested in learning Game Development
 - 🌱 I’m currently learning Front-End Development (HTML), Back-End Development (C#,C++,Java)
+- 🌱 I had learn Mobile Development (Android Studio)
 - 📫 You can reach me by using email : Johnny_0622@hotmail.com
 
 <!---
