@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnny622
 - 👨‍🎓 Fresh Graduate of Information System Engineering from Universiti Tunku Abdul Rahman (UTAR)
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in position of Software Developer, Full Stack Developer, Backend Developer
 - 🌱 Skills : JAVA, C#, C++, HTML, JAVASCRIPT, JQEURY, Vue, Firebase, MSSQL
 - 🌱 I had learn Mobile Development (Android Studio), Web Development, Windows Application Development
 - 📫 You can reach me by using email : Johnny_0622@hotmail.com
